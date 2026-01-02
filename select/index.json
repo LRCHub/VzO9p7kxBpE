@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Happiness Umbrella",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2026-01-02T15:19:05.859686Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happiness Umbrella",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_Happiness_Umbrella_ロクデナシ.txt"
+    }
+  ]
+}
